@@ -1,7 +1,7 @@
 import axios from "axios";
 import Cookies from "js-cookie";
 
-const endpoint = "http://booleanassassins.pythonanywhere.com/";
+const endpoint = "https://booleanassassins.pythonanywhere.com/";
 const urls = {
   user: {
     login: "auth/login",
