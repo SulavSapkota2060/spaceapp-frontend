@@ -1,0 +1,52 @@
+.update-post {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 8px;
+}
+
+.update-post h3 {
+  margin-bottom: 20px;
+  text-align: center;
+  color: #3d90e3;
+}
+
+.update-post form {
+  display: flex;
+  flex-direction: column;
+}
+
+.update-post .form-group {
+  margin-bottom: 20px;
+}
+
+.update-post label {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.update-post input,
+.update-post textarea {
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.update-post textarea {
+  resize: vertical;
+}
+
+.update-post button[type="submit"] {
+  padding: 10px;
+  background-color: #3d90e3;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.update-post button[type="submit"]:hover {
+  background-color: #316fbf;
+}

@@ -1,0 +1,59 @@
+.project-descriptions {
+  font-size: 1.8rem;
+  margin-top: 2.4rem;
+  color: #333;
+  padding-left: 2.4rem;
+  width: 1400px;
+  margin: 0 auto;
+}
+.project-descriptions p {
+  overflow-y: scroll;
+}
+
+.project-1 .project-details {
+  width: 100%;
+  overflow-y: scroll;
+}
+
+.project-1 {
+  display: flex;
+  background-color: #dff1ff;
+  color: #ffffff;
+  color: #333;
+  padding: 6.2rem 2.4rem;
+  gap: 1.4rem;
+  border-radius: 9px;
+  align-items: center;
+  margin-top: 2.4rem;
+  margin-right: 2.4rem;
+  font-size: 2rem;
+  box-shadow: 5px 5px 5px 5px #f7f7f7;
+}
+.project-1 button {
+  color: #ffffff;
+  background-color: #f59f00;
+  width: 80%;
+  padding: 0.8rem 2.4rem;
+  height: 3.4rem;
+  margin-top: 14.4rem;
+  margin-right: 2rem;
+  border: none;
+  font-size: 1.8rem;
+  transition: background-color 0.2s ease;
+}
+.project-name {
+  width: 100%;
+}
+.container-programming-languages {
+  margin-top: 10.8rem;
+  display: flex;
+  font-weight: bolder;
+  gap: 2.4rem;
+}
+.container-programming-languages a {
+  text-decoration: none;
+}
+.developer-name {
+  margin-top: 2.8rem;
+  font-weight: bolder;
+}

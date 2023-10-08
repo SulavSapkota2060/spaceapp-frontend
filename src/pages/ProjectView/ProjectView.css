@@ -1,0 +1,56 @@
+.project-name {
+  font-size: 2.8rem;
+  margin-top: 2.8rem;
+  padding-left: 2.4rem;
+}
+.about {
+  font-size: 2.8rem;
+}
+.about {
+  background-color: #d0ebff;
+  height: 66.4rem;
+  width: 64rem;
+  padding: 2.4rem 4.8rem;
+  border-radius: 9px;
+}
+.tags {
+  background-color: #d0ebff;
+  height: 32rem;
+  width: 30rem;
+  border-radius: 9px;
+}
+.links {
+  background-color: #d0ebff;
+  height: 32rem;
+  font-size: 1.8rem;
+  padding: 1.2rem 2rem;
+  border-radius: 9px;
+  margin-top: 2.4rem;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 4.8rem auto;
+  gap: 2.4rem;
+}
+.about h1 {
+  font-size: 3.2rem;
+}
+.about p {
+  font-size: 2.2rem;
+  margin-top: 6.4rem;
+  line-height: 1.8;
+}
+.tags p {
+  font-size: 2.4rem;
+  padding: 2.4rem 4.8rem;
+  line-height: 1.8;
+}
+.links ul li {
+  list-style: none;
+  font-size: 2.2rem;
+}
+.stars {
+  font-size: 4.4rem;
+  margin-left: 9.8rem;
+}

@@ -1,0 +1,63 @@
+﻿* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Inter", sans-serif;
+}
+html {
+  font-size: 10px;
+}
+.main-li {
+  list-style: none;
+}
+.main-header {
+  background-color: #1c7ed6;
+  height: 7.8rem;
+  border: 12px;
+}
+.main-ul {
+  display: flex;
+  gap: 8.4rem;
+  justify-content: flex-end;
+  padding-top: -7.4rem;
+  position: relative;
+  bottom: 3.4rem;
+}
+.main-a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 2rem;
+  margin-right: 6.4rem;
+}
+.main-a:hover {
+  border-bottom: 2px solid #212529;
+  color: #212529;
+}
+.name-open-source {
+  font-size: 1.8rem;
+  padding-top: 2.4rem;
+  color: #ffffff;
+  padding-left: 2.4rem;
+}
+.search-box {
+  width: 80%;
+  font-size: 2.4rem;
+  border-radius: 9px;
+  border: 2px solid #000000;
+  text-align: center;
+}
+.main-my-profile {
+  color: #ffffff;
+  text-decoration: none;
+}
+.main-home {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1.8rem;
+}
+.main-login {
+  color: #ffffff;
+  text-decoration: none;
+}

@@ -1,0 +1,78 @@
+.sign-up-section {
+  display: flex;
+  margin: 10.4rem auto;
+  margin-left: 12rem;
+  border: 2px solid #000000;
+  width: 130rem;
+  padding: 2.4rem 4.8rem;
+}
+.left-side-sign-up {
+  width: 30%;
+  padding: 2.4rem 4.8rem;
+}
+.right-side-sign-up {
+  background-color: #80b4e2;
+  width: 60%;
+  padding: 4.4rem 4.8rem;
+  height: 60rem;
+  margin-left: 8.8rem;
+  border-radius: 9px;
+}
+.left-side-sign-up h1,
+.right-side-sign-up h1 {
+  font-size: 4.2rem;
+}
+.left-side-sign-up p {
+  font-size: 2.4rem;
+  width: 50rem;
+  margin-top: 2.4rem;
+  margin-right: 4.8rem;
+}
+.left-side-sign-up img {
+  width: 100%;
+}
+.right-side-sign-up form {
+  margin-top: 2.4rem;
+}
+.right-side-sign-up label {
+  font-size: 1.8rem;
+}
+
+#username-input-box,
+#email-form-enter,
+#password-input-box,
+#confirm-password-input-box {
+  width: 100%;
+  padding: 1.2rem;
+  font-size: 1.8rem;
+  font-family: inherit;
+  color: inherit;
+  border: none;
+  border-radius: 9px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+.btn-create-an-account {
+  padding: 0.8rem 1.8rem;
+  font-size: 1.8rem;
+  width: 60%;
+  background-color: #1c7ed6;
+  color: #ffffff;
+  border: none;
+  border-radius: 9px;
+  margin-right: 12.4rem;
+  position: relative;
+  bottom: 3.8rem;
+  right: 2.4rem;
+}
+.btn-create-an-account:hover {
+  background-color: #228be6;
+}
+.account {
+  margin-top: 2.4rem;
+  font-size: 1.8rem;
+  margin-left: 16.4rem;
+}
+.account-sign-in {
+  color: #ffffff;
+  text-decoration: none;
+}

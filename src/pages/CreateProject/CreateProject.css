@@ -1,0 +1,56 @@
+.main-section h1 {
+  font-size: 3.2rem;
+  text-align: center;
+  margin-top: 4.8rem;
+}
+label {
+  font-size: 2.2rem;
+}
+.main-container-project {
+  margin-top: 6.4rem;
+  display: flex;
+  gap: 12.4rem;
+  justify-content: center;
+}
+#project-name-box {
+  height: 10rem;
+  width: 38rem;
+  margin-top: 2.4rem;
+  border-radius: 9px;
+  border: 2px solid #000000;
+}
+.about-the-project {
+  margin-top: 4.4rem;
+}
+#about-the-project-box {
+  height: 28rem;
+  width: 38rem;
+  border-radius: 9px;
+  margin-top: 2.4rem;
+  border: 2px solid #000000;
+}
+#tags-project-box {
+  height: 10rem;
+  width: 44rem;
+  border-radius: 9px;
+  border: 2px solid #000000;
+  margin-top: 2.4rem;
+}
+#links-project-box {
+  height: 10rem;
+  width: 44rem;
+  border-radius: 9px;
+  border: 2px solid #000000;
+}
+.links-project {
+  margin-top: 8.8rem;
+}
+.btn-add {
+  margin-top: 10.4rem;
+  padding: 1.2rem 2.4rem;
+  background-color: #1c7ed6;
+  color: #ffffff;
+  border: none;
+  border-radius: 9px;
+  font-size: 1.8rem;
+}

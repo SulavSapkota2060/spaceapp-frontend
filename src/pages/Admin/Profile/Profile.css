@@ -1,0 +1,97 @@
+.main-details {
+  display: flex;
+  height: 30vh;
+}
+
+.main-container {
+  width: 90vw;
+  margin: auto;
+  margin-top: 4%;
+  background-color: black;
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.cover-photo {
+  background-color: white;
+  height: 35vh;
+  overflow: hidden;
+  width: 100%;
+  border-radius: 20px;
+  background-size: cover;
+  background-position: center center;
+}
+
+.cover-photo img {
+  width: 100%;
+  height: auto;
+}
+
+.profile-pic {
+  position: relative;
+  z-index: 2;
+  background-color: cyan;
+  width: 19rem;
+  height: 19rem;
+  border-radius: 19rem;
+  left: 4%;
+  top: -30%;
+  margin-right: 10px;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center center;
+}
+
+.profile-pic img {
+  width: 100%;
+  height: auto;
+}
+
+.name-address {
+  white-space: nowrap;
+  z-index: 2;
+  position: relative;
+  font-family: sans-serif;
+  left: 5%;
+  margin-left: 10px;
+  top: -3%;
+  padding-right: 30px;
+}
+
+.name {
+  font-size: 3.5rem;
+  color: white;
+}
+
+.address {
+  font-size: 2.5rem;
+  color: gray;
+}
+
+.username {
+  font-size: 1.7rem;
+  color: gray;
+  opacity: 0.6;
+}
+
+.maintext {
+  z-index: 2;
+  position: relative;
+  font-family: sans-serif;
+  left: 4%;
+  margin-right: 8%;
+  margin-top: 4%;
+  padding-bottom: 3%;
+}
+
+.title {
+  font-size: 2.5rem;
+  color: white;
+}
+
+.text {
+  font-size: 1.3rem;
+  color: white;
+}
